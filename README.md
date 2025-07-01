@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif)
+![MasterHead](https://www.google.com/imgres?imgurl=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VLakGxXY3xoBe7Tn4yhk2mhhvZrfWLCV3HpZOvJcdVrXaYUR3pRrpFXb8IEEM_IxCTmQCSCAK2I_QedxEAxR8Y0mV418qCg-CRMctCB93CtJlU9ZpvNLvVEwXKYV0VN7ZOcubBVJeSw/s1600/2000_600px.gif&tbnid=TH0qAZuI5rkaTM&vet=1&imgrefurl=https://android-developers.googleblog.com/2019/10/android-developer-challenge.html&docid=1ogma0YhR07wjM&w=1600&h=480&source=sh/x/im/m5/2&kgs=19db3fc032df4d26#imgrc=m9TPMYww-P8hKM&imgdii=TH0qAZuI5rkaTM)
 <h1 align="center">Hi 👋, I'm Akash Patra</h1>
 <h3 align="center">A passionate Fullstack Android developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"/>
