@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/patrakash02" target="blank"><img src="https://img.shields.io/twitter/follow/patrakash02?logo=twitter&style=for-the-badge" alt="patrakash02" /></a> </p>
 
-- 🔭 I’m currently working on **Real-Estate Software**
+- 🔭 I’m currently working on **Android App**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Android Application Development with Kotlin**
 
-- 💬 Ask me about **MongoDB,React js ,Node js, Express js,My sql**
+- 💬 Ask me about **Kotlin, Jetpack Compose, Room, Firebase, Retrofit, MVVM**
 
 - 📫 How to reach me **bantyakash123@gmail.com**
 
